@@ -8,24 +8,24 @@ This is how **actual ethical hackers / pentesters** operate 👇
 
 # 📚 Table of Contents
 
-- [0. Pre-Engagement (Planning & Legal)](#0-pre-engagement-planning--legal)
-- [1. Passive Reconnaissance (OSINT)](#1-passive-reconnaissance-osint)
-- [2. Active Reconnaissance](#2-active-reconnaissance)
-- [3. Scanning & Enumeration](#3-scanning--enumeration)
-- [4. Vulnerability Analysis](#4-vulnerability-analysis)
-- [5. Exploitation (Gaining Access)](#5-exploitation-gaining-access)
-- [6. Privilege Escalation](#6-privilege-escalation)
-- [7. Post-Exploitation](#7-post-exploitation)
-- [8. Persistence (Maintaining Access)](#8-persistence-maintaining-access)
-- [9. Defense Evasion / Covering Tracks](#9-defense-evasion--covering-tracks)
-- [10. Command & Control Simulation (C2)](#10-command--control-simulation-c2)
-- [11. Reporting (CRITICAL)](#11-reporting-critical)
-- [12. Remediation Support](#12-remediation-support)
-- [13. Retesting / Validation](#13-retesting--validation)
-- [Final Flow](#-final-flow-real-professional-model)
-- [Pro Insight](#-pro-insight-what-beginners-miss)
+- [0. Pre-Engagement (Planning & Legal)](#pre-engagement)
+- [1. Passive Reconnaissance (OSINT)](#passive-recon)
+- [2. Active Reconnaissance](#active-recon)
+- [3. Scanning & Enumeration](#scanning)
+- [4. Vulnerability Analysis](#vuln-analysis)
+- [5. Exploitation (Gaining Access)](#exploitation)
+- [6. Privilege Escalation](#priv-esc)
+- [7. Post-Exploitation](#post-exploitation)
+- [8. Persistence (Maintaining Access)](#persistence)
+- [9. Defense Evasion / Covering Tracks](#defense-evasion)
+- [10. Command & Control Simulation (C2)](#c2)
+- [11. Reporting (CRITICAL)](#reporting)
+- [12. Remediation Support](#remediation)
+- [13. Retesting / Validation](#retesting)
+- [Final Flow](#final-flow)
+- [Pro Insight](#pro-insight)
 
-## 🧾 0. Pre-Engagement (Planning & Legal)
+## 🧾 0. Pre-Engagement (Planning & Legal) <a id="pre-engagement"></a>
 
 Before touching anything.
 
@@ -38,7 +38,7 @@ Before touching anything.
 
 ---
 
-## 🧠 1. Passive Reconnaissance (OSINT)
+## 🧠 1. Passive Reconnaissance (OSINT) <a id="passive-recon"></a>
 
 No interaction with target.
 
@@ -51,7 +51,7 @@ No interaction with target.
 
 ---
 
-## ⚡ 2. Active Reconnaissance
+## ⚡ 2. Active Reconnaissance <a id="active-recon"></a>
 
 Now you interact with the target.
 
@@ -63,7 +63,7 @@ Now you interact with the target.
 
 ---
 
-## 🌐 3. Scanning & Enumeration
+## 🌐 3. Scanning & Enumeration <a id="scanning"></a>
 
 Deep technical discovery phase.
 
@@ -91,7 +91,7 @@ Tools like:
 
 ---
 
-## 🧪 4. Vulnerability Analysis
+## 🧪 4. Vulnerability Analysis <a id="vuln-analysis"></a>
 
 Now you analyze weaknesses.
 
@@ -109,7 +109,7 @@ Tools:
 
 ---
 
-## 💥 5. Exploitation (Gaining Access)
+## 💥 5. Exploitation (Gaining Access) <a id="exploitation"></a>
 
 You attack the vulnerabilities.
 
@@ -127,7 +127,7 @@ Tools:
 
 ---
 
-## 🔓 6. Privilege Escalation
+## 🔓 6. Privilege Escalation <a id="priv-esc"></a>
 
 Getting higher access.
 
@@ -138,7 +138,7 @@ Getting higher access.
 
 ---
 
-## 🕸️ 7. Post-Exploitation
+## 🕸️ 7. Post-Exploitation <a id="post-exploitation"></a>
 
 Once inside:
 
@@ -151,7 +151,7 @@ Once inside:
 
 ---
 
-## 🔁 8. Persistence (Maintaining Access)
+## 🔁 8. Persistence (Maintaining Access) <a id="persistence"></a>
 
 Simulating long-term attacker presence.
 
@@ -163,7 +163,7 @@ Simulating long-term attacker presence.
 
 ---
 
-## 🧹 9. Defense Evasion / Covering Tracks
+## 🧹 9. Defense Evasion / Covering Tracks <a id="defense-evasion"></a>
 
 Testing detection systems.
 
@@ -175,7 +175,7 @@ Testing detection systems.
 
 ---
 
-## 📡 10. Command & Control Simulation (C2)
+## 📡 10. Command & Control Simulation (C2) <a id="c2"></a>
 
 Simulate attacker communication.
 
@@ -186,7 +186,7 @@ Simulate attacker communication.
 
 ---
 
-## 📊 11. Reporting (CRITICAL)
+## 📊 11. Reporting (CRITICAL) <a id="reporting"></a>
 
 The most important phase.
 
@@ -199,7 +199,7 @@ The most important phase.
 
 ---
 
-## 🔧 12. Remediation Support
+## 🔧 12. Remediation Support <a id="remediation"></a>
 
 Helping fix issues.
 
@@ -209,7 +209,7 @@ Helping fix issues.
 
 ---
 
-## 🔁 13. Retesting / Validation
+## 🔁 13. Retesting / Validation <a id="retesting"></a>
 
 Verify fixes actually work.
 
@@ -218,13 +218,13 @@ Verify fixes actually work.
 
 ---
 
-# 🔥 FINAL FLOW (REAL PROFESSIONAL MODEL)
+# 🔥 FINAL FLOW (REAL PROFESSIONAL MODEL) <a id="final-flow"></a>
 
 **Pre-engagement → Passive Recon → Active Recon → Scanning → Enumeration → Vulnerability Analysis → Exploitation → Privilege Escalation → Post-Exploitation → Persistence → Defense Evasion → C2 Simulation → Reporting → Remediation → Retesting**
 
 ---
 
-# 🧠 PRO INSIGHT (What beginners miss)
+# 🧠 PRO INSIGHT (What beginners miss) <a id="pro-insight"></a>
 
 Most people think hacking = exploitation only ❌
 
