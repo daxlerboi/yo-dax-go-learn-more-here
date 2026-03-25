@@ -45,6 +45,8 @@ This is how **actual ethical hackers / pentesters** operate 👇
 - [Final Flow](ethical-hacking.md#final-flow)
 - [Pro Insight](ethical-hacking.md#pro-insight)
 
+
+
 ## 🧾 0. Pre-Engagement (Planning & Legal) <a id="pre-engagement"></a>
 
 Before touching anything.

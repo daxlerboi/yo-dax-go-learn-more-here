@@ -32,6 +32,14 @@ Here’s a clean, structured **Table of Contents for Stage 0: Pre-Engagement (Pl
 - [0.10 Documentation & Deliverables Planning](ethical-hacking.md#010-documentation--deliverables-planning)
 - [0.11 Exit Criteria](ethical-hacking.md#011-exit-criteria)
 
+## Link to the main page 
+
+[⬅ Back to Main](../Stages_of_Ethical_Hacking.md)
+
+* Now to that specific section of Pre_Engagement # Pre-Engagement (Use this link)
+
+[⬅ Back to Main/Pre_Engagement](../Stages_of_Ethical_Hacking.md#pre-engagement)
+
 ## 0.1 Engagement Overview <a id="01-engagement-overview"></a>
 
 * Objective of the assessment
