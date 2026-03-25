@@ -28,7 +28,7 @@ This is how **actual ethical hackers / pentesters** operate 👇
 # 📚 Table of Contents(Linked and explained properly)
 
 - [0. Pre-Engagement (Planning & Legal)](Pre-Engagement.md#pre-engagement)
-- [0. Pre-Engagement](Ethical%20Hacking/Pre-Engagement%20(Planning%20%26%20Legal)/Pre-Engagement.md#pre-engagement)
+- [0. Pre-Engagement (Planning & Legal)](Ethical%20Hacking/Pre-Engagement%20(Planning%20%26%20Legal)/Pre-Engagement.md)
 - [1. Passive Reconnaissance (OSINT)](ethical-hacking.md#passive-recon)
 - [2. Active Reconnaissance](ethical-hacking.md#active-recon)
 - [3. Scanning & Enumeration](ethical-hacking.md#scanning)
