@@ -25,6 +25,25 @@ This is how **actual ethical hackers / pentesters** operate 👇
 - [Final Flow](#final-flow)
 - [Pro Insight](#pro-insight)
 
+# 📚 Table of Contents(Linked and explained properly)
+
+- [0. Pre-Engagement (Planning & Legal)](Pre-Engagement.md#pre-engagement)
+- [1. Passive Reconnaissance (OSINT)](ethical-hacking.md#passive-recon)
+- [2. Active Reconnaissance](ethical-hacking.md#active-recon)
+- [3. Scanning & Enumeration](ethical-hacking.md#scanning)
+- [4. Vulnerability Analysis](ethical-hacking.md#vuln-analysis)
+- [5. Exploitation (Gaining Access)](ethical-hacking.md#exploitation)
+- [6. Privilege Escalation](ethical-hacking.md#priv-esc)
+- [7. Post-Exploitation](ethical-hacking.md#post-exploitation)
+- [8. Persistence (Maintaining Access)](ethical-hacking.md#persistence)
+- [9. Defense Evasion / Covering Tracks](ethical-hacking.md#defense-evasion)
+- [10. Command & Control Simulation (C2)](ethical-hacking.md#c2)
+- [11. Reporting (CRITICAL)](ethical-hacking.md#reporting)
+- [12. Remediation Support](ethical-hacking.md#remediation)
+- [13. Retesting / Validation](ethical-hacking.md#retesting)
+- [Final Flow](ethical-hacking.md#final-flow)
+- [Pro Insight](ethical-hacking.md#pro-insight)
+
 ## 🧾 0. Pre-Engagement (Planning & Legal) <a id="pre-engagement"></a>
 
 Before touching anything.
