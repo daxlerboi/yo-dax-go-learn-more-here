@@ -21,6 +21,7 @@ Here’s a clean, structured **Table of Contents for Stage 0: Pre-Engagement (Pl
 # 📚 Table of Contents (Pre-Engagement)[Linked]
 
 - [0.1 Engagement Overview](ethical-hacking.md#01-engagement-overview)
+- [Engagement Overview](Engagement_Overview/Engagement_Preview.md)
 - [0.2 Legal Authorization](ethical-hacking.md#02-legal-authorization)
 - [0.3 Scope Definition](ethical-hacking.md#03-scope-definition)
 - [0.4 Rules of Engagement (RoE)](ethical-hacking.md#04-rules-of-engagement-roe)
